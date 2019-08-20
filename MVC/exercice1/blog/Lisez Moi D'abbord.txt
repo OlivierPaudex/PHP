@@ -1,0 +1,11 @@
+J'ai ajouté 2 methodes dans "class" CommentManager, viewComment pour afficher commentaire voulu et editComment pour le changer.
+
+puis j'ai modifié le controlleur en ajoutant 2 fonctions avec méme nom "viewComment" et "editComment" pour gérer la vue.
+
+Aprés j'ai créé un fichier dans le dossier view (vue) => editPost.php
+
+Enfin j'ai modifié le router index.php pour gérer tt.
+
+c'était du codage brut sans focalisation au sujet de securité.
+
+Voila Merci pour votre correction :)

@@ -1,0 +1,1 @@
+Pour les personnes qui ont des mac le mot de passe pour accéder à la base de données est root.

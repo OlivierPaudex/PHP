@@ -1,0 +1,32 @@
+.news{
+	width:70%;
+	margin: auto;
+}
+
+h1{
+	color:#fff;
+	background-color: #000;
+	margin-bottom: 0;
+	font-size:0.9em;
+	text-align:center;
+	padding: 3px;
+}
+p{
+	background-color: #ddd;
+	margin-top:0;
+	padding: 3px;
+}
+a{
+	text-decoration: none;
+	font-size:1.2em;
+	font-weight:bold;
+	display:block;
+}
+
+.edit{
+	display:inline;
+}
+
+.editMessage{
+	color:#00FF00;
+}
